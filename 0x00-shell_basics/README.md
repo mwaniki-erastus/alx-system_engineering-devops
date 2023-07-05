@@ -3,3 +3,4 @@ The 0-current_working_directory scripts prints the current working directory
 2-bring_me_home - takes you to the home directory of the user
 3-listfiles display the contents of the current directory in long format
 4-listmorefiles - lists even the hidden files
+5-listfilesdigitonly - displays current directory contents in long format user and groupID siplayed numerically and with hidden files
