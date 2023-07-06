@@ -14,3 +14,4 @@ The 0-current_working_directory scripts prints the current working directory
 Move back to the working directory, list files, get the file type and delete a directory
 13-symbolic_link - creates a symbolic link to the file /bin/ls
 14-copy_html - copies html files
+ 100-lets_move - moves files beginning with uppercase letters
