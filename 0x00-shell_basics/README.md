@@ -16,3 +16,4 @@ Move back to the working directory, list files, get the file type and delete a d
 14-copy_html - copies html files
 100-lets_move - moves files beginning with uppercase letters
 101-clean_emacs - deletes all files ending with ~
+102-tree - creates a directory tree
