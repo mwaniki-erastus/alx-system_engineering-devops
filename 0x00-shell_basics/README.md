@@ -7,3 +7,7 @@ The 0-current_working_directory scripts prints the current working directory
 6-firstdirectory - creates a directory named my_first_directory in /tmp/ directory
 7-movethatfile - moves the file betty from /tmp to alx-system_engineering-devops
 8-firstdelete - deletes the file betty in /tmp/my_first_directory
+9-firstdirdeletion - deletes a directory
+10-back - changes working directory to the previous one
+11-lists - lists the files including the hidden ones in the current directory, the parent of the current directory and /boot in long format
+12-file_type - prints the file type of the file in the tmp folder
