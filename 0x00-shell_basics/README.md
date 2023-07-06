@@ -13,3 +13,4 @@ The 0-current_working_directory scripts prints the current working directory
 12-file_type - prints the file type of the file in the tmp folder
 Move back to the working directory, list files, get the file type and delete a directory
 13-symbolic_link - creates a symbolic link to the file /bin/ls
+14-copy_html - copies html files
