@@ -11,3 +11,9 @@ The 0-current_working_directory scripts prints the current working directory
 10-back - changes working directory to the previous one
 11-lists - lists the files including the hidden ones in the current directory, the parent of the current directory and /boot in long format
 12-file_type - prints the file type of the file in the tmp folder
+[main f84d7d2] Move back to the working directory, list files, get the file type and delete a directory
+ 5 files changed, 12 insertions(+)
+ create mode 100755 0x00-shell_basics/10-back
+ create mode 100755 0x00-shell_basics/11-lists
+ create mode 100644 0x00-shell_basics/12-file_type
+ create mode 100755 0x00-shell_basics/9-firstdirdeletion
