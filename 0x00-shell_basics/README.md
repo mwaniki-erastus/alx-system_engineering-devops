@@ -6,3 +6,4 @@ The 0-current_working_directory scripts prints the current working directory
 5-listfilesdigitonly - displays current directory contents in long format user and groupID siplayed numerically and with hidden files
 6-firstdirectory - creates a directory named my_first_directory in /tmp/ directory
 7-movethatfile - moves the file betty from /tmp to alx-system_engineering-devops
+8-firstdelete - deletes the file betty in /tmp/my_first_directory
