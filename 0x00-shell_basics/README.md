@@ -15,3 +15,6 @@ Move back to the working directory, list files, get the file type and delete a d
 13-symbolic_link - creates a symbolic link to the file /bin/ls
 14-copy_html - copies html files
  100-lets_move - moves files beginning with uppercase letters
+[main 93429f2] Move all files beginning with uppercase
+ 2 files changed, 3 insertions(+)
+ create mode 100755 0x00-shell_basics/100-lets_move
