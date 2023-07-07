@@ -5,3 +5,5 @@ Shell permissions in linux
 3-new_owner - uses chown username file to change the ownership of a file to a new user
 4-empty - uses touch to create a new empty file
 5-execute - uses chmod 700 to add execute permissions to the file hello
+6-multiple_permissions - 554 adds read and execute permissions to owner and group while everyone else can only read
+ 7-everybody - 751 adds execution permission to the owner, the group owner and the other users
