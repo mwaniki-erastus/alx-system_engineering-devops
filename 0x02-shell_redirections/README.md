@@ -6,3 +6,4 @@ shell scripts that do different things:
 3-twofiles - uses cat to print the contents of 2 files
 4-lastlines - is used to print the first 10 lines of a file
 5-firstlines - is used to print the last 10 lines of a file
+6-third_line - uses a combination of head and tail to print a specific line ina file
