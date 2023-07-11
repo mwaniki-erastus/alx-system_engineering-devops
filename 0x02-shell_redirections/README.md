@@ -7,3 +7,4 @@ shell scripts that do different things:
 4-lastlines - is used to print the first 10 lines of a file
 5-firstlines - is used to print the last 10 lines of a file
 6-third_line - uses a combination of head and tail to print a specific line ina file
+8-cwd_state - writes the output of ls -la to afile
