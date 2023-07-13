@@ -8,5 +8,5 @@ shell scripts that do different things:
 5-firstlines - is used to print the last 10 lines of a file
 6-third_line - uses a combination of head and tail to print a specific line ina file
 8-cwd_state - writes the output of ls -la to afile
-10-no_more_js - uses rm to delete all files witha .js extension
 9-duplicate_last_line uses tail to get thye last line and appends it to the same file 
+10-no_more_js uses find to seach for all .js files and deletes them
